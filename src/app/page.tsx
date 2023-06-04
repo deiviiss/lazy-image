@@ -75,7 +75,7 @@ const Home: NextPage = () => {
           <p className="text-base text-center leading-6 text-indigo-600 font-semibold tracking-wide uppercase">Course React with TypeScript</p>
           <h3 className="mt-2 text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-800 sm:text-4xl sm:leading-10">Component Lazy Image</h3>
           <div className="max-w-xl mx-auto text-xl text-center text-gray-600 leading-7">
-            <p className="mt-4 text-center">Las imágenes agregadas no se descargarán hasta que sean visibles en la pantalla, está son tomadas de la API de la NASA.</p>
+            <p className="mt-4 text-center">Las imágenes agregadas no se descargarán hasta que sean visibles en la pantalla, estás imágenes son tomadas de la API de la NASA.</p>
             <p className="mt-4">✨✨</p>
           </div>
         </div>
