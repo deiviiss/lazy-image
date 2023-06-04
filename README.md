@@ -1,3 +1,11 @@
+# Lazy Image
+
+Curso de ReactJs con TypeScript @Platzi
+
+Demo: https://lazy-image-two.vercel.app/
+
+![](https://repository-images.githubusercontent.com/649434998/af8fca8b-0351-4b57-9874-25d27b0aba91)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
